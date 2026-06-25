@@ -18,6 +18,9 @@
   * **单文件免安装 (Single-File & Portable)**: 采用独立可执行文件设计，无需繁琐安装，不写注册表，双击即用、即删即走。
   * **极低资源占用 (Minimal Resource Footprint)**: 核心代码精简高效，几乎不占用内存与 CPU 算力，大小仅有1MB左右，老旧设备也能流畅运行无压力。
 
+* **🎨 视觉美学 / Aesthetics & Design**
+  * **高级毛玻璃特效 (Frosted Glass Aesthetics)**: 与纯色遮罩不同，Subglass带来优雅细腻的沉浸式磨砂质感，对视频播放的干扰达到最小。
+
 ---
 <img width="640" height="614" alt="Subglassicon" src="https://github.com/user-attachments/assets/4f225842-e597-4f30-9c42-35f62a03b308" />
 
