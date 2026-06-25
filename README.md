@@ -1,2 +1,17 @@
-# Subglass
-Subglass是一款简洁好用的桌面字幕遮罩小工具，拥有毛玻璃效果，专为看剧学外语打造。Subglass is a sleek, user-friendly desktop subtitle masking tool with a frosted glass effect, specially crafted for watching shows and learning foreign languages.
+# 🖥️ Subglass
+
+**Subglass** is a sleek, user-friendly desktop subtitle masking tool with a frosted glass effect, specially crafted for watching shows and learning foreign languages.  
+一款简洁好用的桌面字幕遮罩小工具，拥有毛玻璃效果，专为看剧学外语打造。
+
+---
+
+## ✨ 核心功能 / Key Features
+
+* **🎛️ 智能交互 / Smart Interaction**
+  * **鼠标触屏即隐 (Mouse Click-Through)**: 当鼠标或触控点击遮罩时，程序会自动实现点击穿透或即时隐藏，完全不影响你的正常视频操作。
+  * **滚轮调浓淡 (Scroll to Adjust Blur Depth)**: 支持通过鼠标滚轮直接调节毛玻璃效果的模糊浓淡度，轻松找到最舒适的视觉效果。
+
+* **🧩 便捷管理 / Convenient Management**
+  * **右击程序隐藏到托盘 (Right-Click to Minimize to Tray)**: 在程序界面上点击右键，即可快速将遮罩软件隐藏至电脑系统的右下角系统托盘，保持桌面整洁。
+
+---
