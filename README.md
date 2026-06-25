@@ -20,9 +20,11 @@
 
 ## ☕ 赞助与支持 / Donate & Support
 
-Subglass承诺永久免费。
-如果它曾为你带来过便利或解决了难题，不妨考虑给予一份微小的支持，哪怕只是一杯咖啡的心意也对我意义重大。
-Subglass is, and always will be, 100% free.If it has brought you convenience or solved a problem, please consider showing a little support—even a cup of coffee means the world to me.
+* **Subglass承诺永久免费。
+    如果它曾为你带来过便利或解决了难题，不妨考虑给予一份微小的支持，哪怕只是一杯咖啡的心意也对我意义重大。
+
+
+     Subglass is, and always will be, 100% free.If it has brought you convenience or solved a problem, please consider showing a little support—even a cup of coffee means the world to me.
 
 
 
