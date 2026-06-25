@@ -8,7 +8,7 @@
 ## ✨ 核心功能 / Key Features
 
 * **🎛️ 智能交互 / Smart Interaction**
-  * **鼠标触屏即隐 (Mouse Click-Through)**: 当鼠标或触控点击遮罩时，程序会自动实现点击穿透或即时隐藏，完全不影响你的正常视频操作。
+  * **鼠标触屏即隐 (Mouse Click-Through)**: 当鼠标或触控点击遮罩时，程序会自动实现即时隐藏。
   * **滚轮调浓淡 (Scroll to Adjust Blur Depth)**: 支持通过鼠标滚轮直接调节毛玻璃效果的模糊浓淡度，轻松找到最舒适的视觉效果。
 
 * **🧩 便捷管理 / Convenient Management**
