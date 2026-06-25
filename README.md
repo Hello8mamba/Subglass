@@ -14,6 +14,10 @@
 * **🧩 便捷管理 / Convenient Management**
   * **右击程序隐藏到托盘 (Right-Click to Minimize to Tray)**: 在程序界面上点击右键，即可快速将遮罩软件隐藏至电脑系统的右下角系统托盘，保持桌面整洁。
 
+* **⚡ 极致轻量 / Ultra-Lightweight Performance**
+  * **单文件免安装 (Single-File & Portable)**: 采用独立可执行文件设计，无需繁琐安装，不写注册表，双击即用、即删即走。
+  * **极低资源占用 (Minimal Resource Footprint)**: 核心代码精简高效，几乎不占用内存与 CPU 算力，大小仅有1MB左右，老旧设备也能流畅运行无压力。
+
 ---
 <img width="640" height="614" alt="Subglassicon" src="https://github.com/user-attachments/assets/4f225842-e597-4f30-9c42-35f62a03b308" />
 
