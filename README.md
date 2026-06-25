@@ -15,3 +15,4 @@
   * **右击程序隐藏到托盘 (Right-Click to Minimize to Tray)**: 在程序界面上点击右键，即可快速将遮罩软件隐藏至电脑系统的右下角系统托盘，保持桌面整洁。
 
 ---
+<img width="640" height="614" alt="Subglassicon" src="https://github.com/user-attachments/assets/4f225842-e597-4f30-9c42-35f62a03b308" />
