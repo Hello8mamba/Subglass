@@ -23,5 +23,10 @@
 Subglass承诺永久免费。
 如果它曾为你带来过便利或解决了难题，不妨考虑给予一份微小的支持，哪怕只是一杯咖啡的心意也对我意义重大。
 Subglass is, and always will be, 100% free.If it has brought you convenience or solved a problem, please consider showing a little support—even a cup of coffee means the world to me.
+
+
+
+
+
 <img width="320" height="320" alt="sponsor (自定义)" src="https://github.com/user-attachments/assets/b904fccb-66f4-476f-8b4c-f26930980d1d" />
 
